@@ -35,7 +35,7 @@ The current stream schedule is:
 
 # FAQ
 
-* **How I can join the show as a guest?** If you're excited about your research and would like to join the show, please reach out to [Rachit][] or [Oliver][] email, and we'll try to slot you in!
+* **How I can join the show as a guest?** If you're excited about your research and would like to join the show, please [reach out to us](mailto:rachitnigam12@gmail.com;oflatt@gmail.com), and we'll try to slot you in!
 
 * **Is my research area relevant to the show?** We take a broad view on programming languages and systems research! Even if you haven't published in the traditional venues (PLDI, POPL, OOPSLA, ICFP) but think your work is relevant to the PL and Systems community, we'd love to chat with you!
 
