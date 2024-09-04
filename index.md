@@ -4,7 +4,7 @@ layout: default
 
 [TheForkJoin](https://theforkjoin.io) is a podcast hosted by [Rachit Nigam][rachit] and [Oliver Flatt][oliver] bringing you conversations with the most awesome researchers at the intersection of programming languages and systems research.
 
-We have a live show on [Twitch][] and upload the recordings to [YouTube][] and [Spotify][].
+We have a live show on [Twitch][] and upload the recordings to [YouTube][] and [Spotify][]. During the live show, we encourage the audience to ask questions about the guest's research and engage with them!
 
 # Stream Schedule
 
