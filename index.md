@@ -2,47 +2,54 @@
 layout: default
 ---
 
+<<<<<<< HEAD
 # What is TheForkJoin?
+=======
+[TheForkJoin](https://theforkjoin.io) is a podcast hosted by [Rachit Nigam][rachit] and [Oliver Flatt][oliver] bringing you conversations with the most awesome researchers at the intersection of programming languages and systems research.
+>>>>>>> d022dca (update content)
 
-[PLTea](https://pltea.github.io/) is an initiative to bring together the members of the programming languages community for informal virtual discussions.
-You can talk about that new hobby you picked up, or that new cool programming language you designed, or that amazing paper you wrote.
+We have a live show on [Twitch][] and upload the recordings to [YouTube][] and [Spotify][].
 
-# Am I allowed to come?
+# Stream Schedule
 
-Yes! We treat the term "PL community" extremely loosely and encourage people to join regardless of their specific research interest in PL.
-This is doubly true if you are a student curious to learn programming languages.
+This season, we're talking with programming languages researchers who have recently started as faculty!
+We are hosting the streams **every other Saturday at 10am PST**.
+You can subscribe to our [Twitch Channel][twitch] to get notified when our streams start.
 
-# How do I join?
+The current stream schedule is:
 
-The logistics are simple. You express your interest by joining our [Google Group][group] where we share a registration links for the next meeting.
-During PLTea, all participants are randomly assigned to breakout rooms. The rooms are shuffled every fifteen to twenty minutes.
-The event goes for as long as people express interest in sticking around!
+| When    |  Who |
+|---------|-------|
+| [Will Critchton][willc]  |  Sep 7, 2024   |
+| [Mae Milano][maem] | Sep 21, 2024 |
+| **TK** | Oct 5, 2024  |
+| **TK** | Oct 19, 2024 |
 
-# Upcoming Events
+[willc]: https://willcrichton.net/
+[maem]: https://www.languagesforsyste.ms/
 
-| When                                       |
-|--------------------------------------------|
-| 27th March 2024, 6PM UTC                  |
+## Previous Streams
 
-# Past Events 
+| When    |  Who |
+|---------|-------|
+| [Remy Wang](https://www.youtube.com/watch?v=j6MiCHcpB0g)  | Aug 29, 2023 |
+| [Samuel Coward](https://www.youtube.com/watch?v=IejU4rcKUpA) | Aug 6, 2023 |
+| [Harry Goldstein](https://www.youtube.com/watch?v=tEXq-eSiFwk) | Jul 22, 2023  |
+| [Sam Westrick](https://www.youtube.com/watch?v=z6y3Uk74F6c&t=3s) | Jul 15, 2023 |
 
-| When                                       | 
-|--------------------------------------------+
-| 21st February 2024, 7PM UTC                  |
-| 5th December 2023, 7PM UTC                 |
-| 25th October 2023, 2PM ET                  |
-| 27th September 2023, 2PM ET                  |
-| 23rd August 2023, 2PM ET                  |
-| 26th July 2023, 2PM ET                  |
-| 11am EDT @ [PLDI'23](https://pldi23.sigplan.org/track/)|
-| 10th May 2023, 2PM EDT                     |
-| 12th April 2023, 3PM EST                   |
-| **Rebooting...**                           |
-| 30th April 2021, 3PM EST                   |
-| 25th March 2021, 5:30PM NZST (12:30AM EST) |
-| 4th March 2021, 4PM EST                    |
-| 28th January 2021, 3PM EST                 |
-| 3rd December 2020, 3PM EST                 |
-| 8th September 2020, 3PM EST                |
+# FAQ
 
-[group]: https://groups.google.com/g/pltea
+* **How I can join the show as a guest?** If you're excited about your research and would like to join the show, please reach out to [Rachit][] or [Oliver][] email, and we'll try to slot you in!
+
+* **Is my research area relevant to the show?** We take a broad view on programming languages and systems research! Even if you haven't published in the traditional venues (PLDI, POPL, OOPSLA, ICFP) but think your work is relevant to the PL and Systems community, we'd love to chat with you!
+
+* **Do I need to have published papers to be on the show?** Nope! We welcome researchers from all levels of seniority, but we reserve the right to prioritize people based on the theme of the current season.
+
+* **Do I need to be an academic to be on the show?** While we've hosted a lot of academics on the show, this is not a requirement. If you work on programming languages and systems and excited to talk about your work, please reach out to us!
+
+
+[twitch]: https://www.twitch.tv/theforkjoin
+[youtube]: https://www.youtube.com/@theforkjoin
+[spotify]: https://open.spotify.com/show/6mK7ENjkg9wPSdFkQYGErV
+[rachit]: https://rachit.pl
+[oliver]: https://oflatt.com
