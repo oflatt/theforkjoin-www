@@ -1,30 +1,10 @@
-- name: Karuna Grewal
-  photo: /assets/img/karuna.jpg
-  website: https://aakp10.github.io/
-  active: true
-
-- name: Stephen De Gabrielle
-  photo: /assets/img/stephen.jpg
-  website: https://racket.discourse.group/u/spdegabrielle
-  active: true
-
-- name: Aviral Goel
-  photo: /assets/img/aviral.jpg
-  website: http://aviral.io/
-  active: true
-
 - name: Rachit Nigam
-  photo: /assets/img/rachit.jpg
+  photo: /assets/img/rachit.png
   website: https://rachit.pl/
   active: true
 
-- name: Paulette Koronkevich
-  photo: /assets/img/paulette.jpg
-  website: https://koronkevi.ch/
+- name: Oliver Flatt
+  photo: /assets/img/oflatt.png
+  website: https://oflatt.com/
   active: true
-
-- name: Lucy Menon
-  photo: /assets/img/lucy.jpg
-  website:
-  active: false
 

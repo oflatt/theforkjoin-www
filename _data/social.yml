@@ -1,19 +1,5 @@
-- name: PLTea Google Group
-  link: https://groups.google.com/g/pltea
-  icon: fa-google
+- name: Youtube
+  link: https://youtube.com/@theforkjoin
+  icon: fa-youtube
   active: true
 
-- name: PLTea Twitter Channel
-  link: https://twitter.com/PLteaforplt
-  icon: fa-twitter
-  active: true
-
-- name: "#pltea @ CSR Slack"
-  link: http://bit.ly/join-systems-slack-2019
-  icon: fa-slack
-  active: false
-
-- name: "PLtea Mastodon"
-  link: https://mastodon.social/@PLTea
-  icon: fa-mastodon
-  active: true
