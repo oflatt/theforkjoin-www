@@ -1,5 +1,14 @@
+- name: Twitch
+  link: https://www.twitch.tv/theforkjoin
+  icon: fa-twitch
+  active: true
+
 - name: Youtube
   link: https://youtube.com/@theforkjoin
   icon: fa-youtube
   active: true
 
+- name: Spotify
+  link: https://open.spotify.com/show/6mK7ENjkg9wPSdFkQYGErV
+  icon: fa-spotify
+  active: true
