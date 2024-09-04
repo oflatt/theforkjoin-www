@@ -14,7 +14,7 @@ You can subscribe to our [Twitch Channel][twitch] to get notified when our strea
 
 The current stream schedule is:
 
-| When    |  Who |
+| Who    |  When |
 |---------|-------|
 | [Will Critchton][willc]  |  Sep 7, 2024   |
 | [Mae Milano][maem] | Sep 21, 2024 |
