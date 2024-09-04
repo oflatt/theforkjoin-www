@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# What is PLTea?
+# What is TheForkJoin?
 
 [PLTea](https://pltea.github.io/) is an initiative to bring together the members of the programming languages community for informal virtual discussions.
 You can talk about that new hobby you picked up, or that new cool programming language you designed, or that amazing paper you wrote.
