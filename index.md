@@ -16,7 +16,7 @@ The current stream schedule is:
 
 | Who     |  When |
 |---------|-------|
-| [Will Critchton][willc]  |  Sep 7, 2024   |
+| [Will Crichton][willc]  |  Sep 7, 2024   |
 | [Mae Milano][maem] | Sep 21, 2024 |
 | **TK** | Oct 5, 2024  |
 | **TK** | Oct 19, 2024 |
