@@ -16,12 +16,11 @@ The current stream schedule is:
 
 | Who     |  When |
 |---------|-------|
-| [Will Crichton][willc]  |  Sep 7, 2024   |
+| [Will Crichton](https://www.youtube.com/watch?v=RLxqROVgplQ)  |  Sep 7, 2024   |
 | [Mae Milano][maem] | Sep 21, 2024 |
 | **TK** | Oct 5, 2024  |
 | **TK** | Oct 19, 2024 |
 
-[willc]: https://willcrichton.net/
 [maem]: https://www.languagesforsyste.ms/
 
 ## Previous Streams
